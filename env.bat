@@ -1,0 +1,1 @@
+setx site "www.sky.com.br"
