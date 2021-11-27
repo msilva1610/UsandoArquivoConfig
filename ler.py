@@ -1,7 +1,7 @@
 import os
 import logging
 
-os.environ['site'] = 'www.sky.com.br'
+os.environ['site'] = 'www.mau.com.br'
 
 
 logging.basicConfig(filename='log',
