@@ -1,1 +1,1 @@
-setx site "www.sky.com.br"
+setx site "www.mau.com.br"
